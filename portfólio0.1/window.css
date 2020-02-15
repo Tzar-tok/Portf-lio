@@ -1,0 +1,226 @@
+@media screen and (max-width: 1000px) {
+	.contentTitulo {
+		font-size: 80px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.contentSubTitulo {
+		font-size: 30px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.about {
+		display: block;
+		position: static;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.sobre {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.imgpc {
+		width: 100%;
+		margin: 0 auto;
+
+	}
+}
+@media screen and (max-width: 1000px) {
+	.imgpc img {
+		width: 100%;	}
+}
+@media screen and (max-width: 1000px) {
+	.titleConteudo {
+		margin-top: 370px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.serviceBox1 {
+		display: block;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.box1 {
+		width: 100%;
+		margin: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.serviceBox2 { 
+		display: block;	
+		margin-top: 581px;	
+	}
+}
+@media screen and (max-width: 1000px) {
+	.box1-2 {
+		width: 100%;
+		margin: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleo {
+		margin-top: 1470px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.listPortfoleo {
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoGrid1 {
+		display: block;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoGrid2 {
+		display: block;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoGrid3 {
+		display: block;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks1 {
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks2 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks3 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks4 {
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks5 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks6 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks7 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks8 {
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks9 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks10 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.portfoleoWorks11 {
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.news {
+		margin-top: 800px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.contentNews {
+		display: block;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.boxnews1 {
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.boxnews2 {
+		margin-left: 0px;
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.boxnews3 {
+		margin-left: 0px;
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.contact {
+		margin-top: 590px;
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.textContact {
+		width: 100%;
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.contentContact {
+		display: block;
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	form {
+		margin-top: 60px;
+
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.formularioContact {
+		width: 90%;
+
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.name {
+		width: 100%;
+
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.email {
+		width: 100%;
+
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	.textForm {
+		width: 100%;
+
+		
+	}
+}
+@media screen and (max-width: 1000px) {
+	footer {
+		margin-top: 600px;
+	}
+}

@@ -1,0 +1,64 @@
+/*---------------services-----------*/
+@media screen and (max-width: 1200){
+	.box1 {
+		margin-left: 0px;
+	}
+}
+/*---------------portfoleo----------*/
+
+
+/*---------------contactme----------*/
+
+@media screen and (max-width: 1200px) {
+	.textContact {
+		width: 100%;
+		
+	}
+}
+@media screen and (max-width: 1200px) {
+	.contentContact {
+		display: block;
+		
+	}
+}
+@media screen and (max-width: 1200px) {
+	form {
+		margin-top: 60px;
+
+		
+	}
+}
+@media screen and (max-width: 1200px) {
+	.formularioContact {
+		width: 90%;
+
+		
+	}
+}
+@media screen and (max-width: 1200px) {
+	.name {
+		width: 100%;
+
+		
+	}
+}
+@media screen and (max-width: 1200px) {
+	.email {
+		width: 100%;
+
+		
+	}
+}
+@media screen and (max-width: 1200px) {
+	.textForm {
+		width: 100%;
+
+		
+	}
+}
+@media screen and (max-width: 700px) {
+	footer {
+		margin-top: 500px;
+		height: 20vh;
+	}
+}
